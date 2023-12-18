@@ -20,6 +20,6 @@ I did not do very well on my 4-2 Assignment: Game Player Management Application.
 
 I would utilize more time with user testing in the future to guarantee that my code is in line with user expectations and needs. It is important to consider the user's needs when designing because it could be costly with money and time to not follow the requirements. Coding the wrong requirements could be disappointing to the team and client which is why it is important to find mistakes early in the SDLC as opposed to late in the process.
 
-How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+6. How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
 
 I enjoyed learning about software design as there are many moving pieces I was not aware of. The approach I found comfort with is working backward from the final goals/requirements. I would utilize more of my resources and be able to focus on user testing in the future to guarantee expectations and needs. I kept in mind to provide cost-effective code, at the same time I had to keep in mind that if another developer were to jump in due to my absence the code would need to be clean and easy to read.
